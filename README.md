@@ -1,6 +1,6 @@
 # coding-beats 🎛️
 
-Repo containing experiments with musical coding with [strudel.cc](https://strudel.cc).
+Repo containing experiments with musical coding via [strudel.cc](https://strudel.cc).
 
 Each `*.strudel.js` file is a self-contained Strudel pattern. The `.js` extension is
 only there for editor syntax highlighting — these files are not run by Node.
