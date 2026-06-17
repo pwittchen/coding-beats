@@ -1,4 +1,4 @@
-# coding-beats
+# coding-beats 🎛️
 
 Repo containing experiments with musical coding with [strudel.cc](https://strudel.cc).
 
